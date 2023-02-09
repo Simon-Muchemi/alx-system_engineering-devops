@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Began shell navigation in ubuntu 20.04
+This directory contains file with various scripts concerning file permissions
