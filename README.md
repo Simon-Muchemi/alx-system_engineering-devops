@@ -1,1 +1,1 @@
-This directory contains file with various scripts concerning file permissions
+This directory contains a set of files that I used to learn and complete my tasks on shell variables and expansions
